@@ -4,22 +4,23 @@
 
 This gem integrates this fantastic plugin with Rails 3.1+ Asset Pipeline.
 
+[Plugin documentation](https://github.com/valums/file-uploader/blob/master/readme.md)
+
+[Upgrading from 2.1.2](https://github.com/valums/file-uploader/blob/master/readme.md#upgrading-from-212)
+
 ## Installing Gem
 
     gem 'fileuploader-rails', '~> 3.0.0'
 
 ## Using the javascripts
 
-Require fineuploader in your app/assets/application.js file.
+Require fineuploader in your app/assets/application.js file
 
-    # Basic version
-    //= require fineuploader/uploader.basic
+    //= require fineuploader
 
-    # Full version
-    //= require fineuploader/uploader
+Fineuploader with JQuery wrapper
 
-    # Jquery wrapper
-    //= require fineuploader/jquery-plugin 
+    //= require fineuploader.jquery
 
 ## Using the stylesheet
 
