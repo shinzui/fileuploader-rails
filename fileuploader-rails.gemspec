@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Yury Lebedev"]
   s.email       = ["lebedev.yurii@gmail.com"]
   s.homepage    = "https://github.com/lebedev-yury/fileuploader-rails"
-  s.summary     = %q{Fine Uploader plugin for Rails 3.1 Asset Pipeline}
-  s.description = %q{Fine Uploader by Andrew Valums integrated for Rails 3.1 Asset Pipeline}
+  s.summary     = %q{Fine Uploader plugin for Rails 3.1+ Asset Pipeline}
+  s.description = %q{Fine Uploader by Andrew Valums integrated for Rails 3.1+ Asset Pipeline}
 
   s.rubyforge_project = "fileuploader-rails"
 
