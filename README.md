@@ -1,4 +1,6 @@
-# Fine Uploader 3.0.0 for Rails
+# Fine Uploader 3.1.1 for Rails
+
+### This gem version will remain 3.1.1, because the fineuploader plugin is now commercial
 
 [Fineuploader](http://fineuploader.com/) is a Javascript plugin written by [Andrew Valums](http://github.com/valums/), and actively developed by [Ray Nicholus](http://lnkd.in/Nkhx2C). This plugin uses an XMLHttpRequest (AJAX) for uploading multiple files with a progress-bar in FF3.6+, Safari4+, Chrome and falls back to hidden-iframe-based upload in other browsers (namely IE), providing good user experience everywhere. It does not use Flash, jQuery, or any external libraries.
 
