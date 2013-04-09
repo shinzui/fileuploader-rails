@@ -1,8 +1,7 @@
 /*
- * Original version: 1.0 © 2010 Andrew Valums ( andrew(at)valums.com )
- * Current Maintainer (2.0+): 2012, Ray Nicholus ( fineuploader(at)garstasio.com )
+ * Copyright 2013, Widen Enterprises info@fineuploader.com
  *
- * Licensed under MIT license, GNU GPL 2 or later, GNU LGPL 2 or later, see license.txt.
+ * Licensed under GNU GPL v3, see license.txt.
  */
 .qq-uploader {
     position: relative;
@@ -65,7 +64,7 @@
     font-size: 16px;
     background-color: #FFF0BD;
 }
-.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-retry, .qq-upload-failed-text, .qq-upload-finished {
+.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-retry, .qq-upload-failed-text, .qq-upload-finished, .qq-upload-delete {
     margin-right: 12px;
 }
 .qq-upload-file {
@@ -93,17 +92,17 @@
     height:15px;
     vertical-align:text-bottom;
 }
-.qq-upload-retry {
+.qq-upload-retry, .qq-upload-delete {
     display: none;
     color: #000000;
 }
-.qq-upload-cancel {
+.qq-upload-cancel, .qq-upload-delete {
     color: #000000;
 }
 .qq-upload-retryable .qq-upload-retry {
     display: inline;
 }
-.qq-upload-size, .qq-upload-cancel, .qq-upload-retry {
+.qq-upload-size, .qq-upload-cancel, .qq-upload-retry, .qq-upload-delete {
     font-size: 12px;
     font-weight: normal;
 }
