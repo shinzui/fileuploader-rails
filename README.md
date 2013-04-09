@@ -6,7 +6,7 @@
 
 This gem integrates this fantastic plugin with Rails 3.1+ Asset Pipeline.
 
-[Plugin documentation](https://github.com/valums/file-uploader/blob/master/readme.md)
+[Plugin documentation](https://github.com/Widen/fine-uploader/blob/master/readme.md)
 
 ## Installing Gem
 
