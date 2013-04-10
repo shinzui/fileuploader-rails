@@ -28,5 +28,9 @@ Require the stylesheet file to app/assets/stylesheets/application.css
 
     *= require fineuploader
 
+## Handling uploaded files
+
+[Handling raw file uploads in Rails](https://github.com/lebedev-yury/fileuploader-rails/wiki/Handling-raw-file-uploads-in-Rails)
+
 ## Thanks
 Thanks to [Andrew Valums](http://github.com/valums/) and [Ray Nicholus](http://lnkd.in/Nkhx2C) for this plugin.
