@@ -16,7 +16,7 @@ This gem integrates this fantastic plugin with Rails 3.1+ Asset Pipeline.
 
 ## Installing Gem
 
-    gem 'fileuploader-rails', '~> 3.4.1'
+    gem 'fileuploader-rails', '~> 3.5'
 
 ## Using the javascripts
 
