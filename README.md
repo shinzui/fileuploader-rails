@@ -1,4 +1,4 @@
-# Fine Uploader 3.4.1 for Rails
+# Fine Uploader 3.5 for Rails
 
 [![Gem Version](https://badge.fury.io/rb/fileuploader-rails.png)][gem]
 [![Dependency Status](https://gemnasium.com/lebedev-yury/fileuploader-rails.png?travis)][gemnasium]
